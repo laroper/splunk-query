@@ -14,7 +14,7 @@
 
 + Click start searching and you should then be brought to the Search Summary View:
   ![image](https://github.com/laroper/splunk-query/assets/165287449/782fa477-9451-4134-a1fc-ea8df17e7a35)
-  
+### Search Summary View
 | Number | Element | Description |
 | :----: | :------ | :---------- |
 | 1 | Applications menu | Switch between Splunk applications that you have installed. The current application, Search & Reporting app, is listed. This menu is on the Splunk bar. |
