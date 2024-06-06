@@ -10,10 +10,10 @@
 + To do this visit and follow the instruction <a href='https://docs.splunk.com/Documentation/SplunkCloud/9.1.2312/SearchTutorial/GetthetutorialdataintoSplunk'>Upload data into splunk</a>
 + Once complete you should be looking at this screen below:
   
-+ ![image](https://github.com/laroper/splunk-query/assets/165287449/46060378-854a-4f85-818c-b681131b9335)
+  ![image](https://github.com/laroper/splunk-query/assets/165287449/46060378-854a-4f85-818c-b681131b9335)
 
 + Click start searching and you should then be brought to the Search Summary View:
-+ ![image](https://github.com/laroper/splunk-query/assets/165287449/782fa477-9451-4134-a1fc-ea8df17e7a35)
+  ![image](https://github.com/laroper/splunk-query/assets/165287449/782fa477-9451-4134-a1fc-ea8df17e7a35)
   
 | Number | Element | Description |
 | :----: | :------ | :---------- |
